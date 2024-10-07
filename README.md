@@ -16,6 +16,7 @@ Skills Demonstrated:
   
 How to Run:
   Make sure the dataset file (e.g., face_dataset.npy) is in the same directory as PCA.py.
+  This dataset is quite large. I have provided a google drive link to download it: https://drive.google.com/file/d/1Og-sdEnE3bOrme3NXQxBXilxJqgsunzz/view?usp=sharing
   Run the project using the provided Makefile (run “make”)
   The script will run the tests for PCA projection, perturbation, and combination, displaying results with Matplotlib.
 
