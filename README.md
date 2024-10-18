@@ -43,6 +43,6 @@ You can install the required dependencies using pip: pip install numpy matplotli
 
 **Contact**
 If you have any questions or need further clarifications, feel free to reach out to me at miapatil123@gmail.com.
-Looking forward to hearing from you!
+
 
 
